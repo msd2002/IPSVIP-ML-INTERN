@@ -14,9 +14,13 @@ Personalized Software at our company, we turn the digital dreams of our clients 
 
 TASK
 
-    #Task Name:Fake News Detection Project
+    #Task2 Name:Fake News Detection Project
+    #Task3 Iris Flowers Classification Project
 
 Project idea – Fake news spreads like a wildfire and this is a big issue in this era.
+Project idea – The iris flowers have different species and you can distinguish them based on the length of petals and sepals.
+This is a basic project for machine 
+
 
 You can learn how to distinguish fake news from a real one. You can use supervised learning to implement a model like this. 
 
